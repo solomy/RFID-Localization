@@ -1,6 +1,8 @@
 # RFID-Localization
 ### 文章： 
 [RFdesk: Record Your Objects on Desktop Using COTS RFID Devices Contactlessly]( https://ieeexplore.ieee.org/abstract/document/8975776)
+### 视频demo：
+https://youtu.be/G2lSBLgGZhE
 
 ### 硬件要求：
 RFID读写器：impinjR420 一台
